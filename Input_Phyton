@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jan 18 15:12:33 2021
+
+@author: Windows
+"""
+space=" "
+print("Bienvenidos a Tecnicom de tecnologias en computadoras para la realización de lacompra se necesita que ingrese sus siguientes datos")
+leer=input('Ingrese sus dos nombres completos : ')
+print('hola!',leer)
+leer1=input('Ingrese sus dos apellidos completos: ')
+
+leer2=input('Ingrese su edad: ')
+print("Su edad es: ", leer2)
+print('Sus apellidos y nombres son', leer+space+leer1,"y edad es de: ",leer2)
