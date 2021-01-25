@@ -1,0 +1,5 @@
+
+pi=22/7
+print(pi)
+print('{:.2}'.format(pi))
+print('{:.4}'.format(pi))
